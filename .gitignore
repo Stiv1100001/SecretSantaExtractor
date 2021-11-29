@@ -2,3 +2,5 @@
 /env
 /partecipants.txt
 /secretsanta.sqlite3
+/output
+/__pycache__
